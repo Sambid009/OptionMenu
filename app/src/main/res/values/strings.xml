@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">optionMenue</string>
+    <string name="setting" />
+    <string name="save" />
+    <string name="edit" />
+    <string name="delete" />
+</resources>
